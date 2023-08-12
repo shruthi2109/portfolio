@@ -1,0 +1,35 @@
+	<div class="middle-container">
+  	<div class="profile">
+    <img src="images/image.png" alt="My Profile Image" width="200" height="200">
+    <h2>Hello.</h2>
+    <p class="text-color">I'm a <em>Freelancer </em> providing services for <strong> kids by tutoring coding</strong> through online</p>
+  </div>
+  <hr>
+  <div class="skills">
+    <h2>My Skills.</h2>
+    <div class="skill-row">
+      <img class="coding_image" src="images/coding_flaticon.png" alt="Coding Image" width="300" height="300">
+      <h3>Teach Coding</h3>
+      <p class="text-color">I'm a doing Masters in Science of Queen that is Mathematics. Teaching is my passion since childhood. Thus, My Passion now became a career as a Coding Tutor.</p>
+    </div>
+    <div class="skill-row">
+      <img class="chess_image" src="images/chess_flaticon.png" alt="Chess image" width="300" height="300">
+      <h3>Chess</h3>
+      <p class="text-color">I'm not a quite State/National Player in chess, eventhough I play pretty decent well. One of my energy exhausting game is definitely, <strong>Chess</storng>.</p>
+    </div>
+  </div>
+  <hr>
+  <div class="contact-me">
+    <h2>Get In Touch</h2>
+    <h3>Do you want your child to be a pro in coding at the very young age?</h3>
+    <p class="text-color">Let's Schedule the classes and definitely your child will create fantastic Games, Animations and Responsive Websites.</p>
+    <a class="btn btn-primary" href="mailto:r.shruthisanthosh72@gmail.com">CONTACT ME</a>
+  </div>
+</div>
+
+
+<div class="bottom-container">
+  <a class="footer-link" href="https://www.linkedin.com/">LinkedIn</a>
+ 
+  <p class="copywright">© 2023 Shruthi Arumugam.</p>
+</div>
